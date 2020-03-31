@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>525495412423-asfiqbq2tstbfk5t1sg5limitn6he9ji.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.525495412423-asfiqbq2tstbfk5t1sg5limitn6he9ji</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>525495412423-cia3ssv8h6bcs4an0f7ehkscco7fh94a.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyARuqnjw90ifJtRtfTsI9SQ8vfN7aNwk6U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>525495412423</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dongwonny.myFaceDiary</string>
+	<key>PROJECT_ID</key>
+	<string>facediary-143af</string>
+	<key>STORAGE_BUCKET</key>
+	<string>facediary-143af.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:525495412423:ios:11ebc72d586d130d91c0e2</string>
+	<key>DATABASE_URL</key>
+	<string>https://facediary-143af.firebaseio.com</string>
+</dict>
+</plist>

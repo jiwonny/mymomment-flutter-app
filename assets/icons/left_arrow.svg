@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="33px" viewBox="0 0 52 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 -3.4613986e-05 52.018 -3.4613986e-05 52.018 32.9449 0 32.9449"></polygon>
+    </defs>
+    <g id="mensby-UI-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="로그인/가입하기" transform="translate(-68.000000, -306.000000)">
+            <g id="Group-3" transform="translate(68.000000, 306.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M0.4876,17.6651 L14.3596,32.4041 C15.0066,33.0731 16.0556,33.1511 16.8106,32.4711 C17.4866,31.8641 17.5026,30.6791 16.8786,30.0191 L5.7436,18.2071 L50.2836,18.2071 C51.2416,18.2071 52.0186,17.4311 52.0186,16.4731 C52.0186,15.5151 51.2416,14.7391 50.2836,14.7391 L5.7436,14.7391 L16.8786,2.9261 C17.5026,2.2671 17.4586,1.1111 16.8106,0.4741 C16.1276,-0.1979 14.9966,-0.1379 14.3596,0.5421 L0.4876,15.2811 C-0.2164,16.0781 -0.1064,16.9831 0.4876,17.6651" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

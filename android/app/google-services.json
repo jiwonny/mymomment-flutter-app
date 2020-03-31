@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "525495412423",
+    "firebase_url": "https://facediary-143af.firebaseio.com",
+    "project_id": "facediary-143af",
+    "storage_bucket": "facediary-143af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525495412423:android:cb9f6ad706f5f0ee91c0e2",
+        "android_client_info": {
+          "package_name": "com.dongwonny.my_face_diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525495412423-sgvuviqft228n6gfqpu51sgkjbnqvqgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525495412423-sgvuviqft228n6gfqpu51sgkjbnqvqgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
